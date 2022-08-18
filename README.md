@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this first project is to create a basic recipe website. This project will demonstate basic HTML skills such as using a boilerplate, creating headers and paragraphs, and adding links and images. In addition to the HTML skills, this project will be great practice for using Git commands.
